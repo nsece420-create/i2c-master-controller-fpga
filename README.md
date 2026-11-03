@@ -11,7 +11,7 @@ An RTL implementation of a robust I2C Master Controller designed in Verilog HDL 
 
 ## 📌 Architectural Overview
 
-![Project Overview](project_overview.png)
+![Project Overview](1793710159043.png)
 
 ### Key Features
 - *Protocol Compliance:* Supports standard START, STOP, and Repeated START framing.
